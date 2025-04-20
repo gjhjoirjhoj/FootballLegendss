@@ -1,0 +1,21 @@
+body{
+    margin: 20px;
+    padding: 30px;
+    background-color: rgb(36, 104, 84);
+}
+
+nav{
+    margin: 15px;
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    height: 10px;
+}
+
+a{
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    color: darksalmon;
+}
